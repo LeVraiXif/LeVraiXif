@@ -4,8 +4,5 @@
 
 ## About me 
 
-- 👨‍🎓 I'm french student 
-- 🌱 I’m currently learning python 
-- 🤡 Fun fact: Nothing 
 
 
